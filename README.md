@@ -1,5 +1,6 @@
 ![Ewha Statistics Analysis Association](https://capsule-render.vercel.app/api?type=waving&height=300&text=Ewha%20Statistics%20Analysis%20Association&descAlign=68&textBg=false&fontAlign=50&fontSize=50&descAlignY=61&animation=twinkling&color=009775)
 
+
 <p align="center">
   <a href="https://www.instagram.com/esaa_ewha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -8,9 +9,8 @@
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver">
   </a>
   <a href="https://stat.ewha.ac.kr/statistics/index.do" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Emblem_of_Ewha_Womans_University.png" width="80" alt="Ewha Womans University">
-  </a>
-</p>
+    <img src="data:image/png;base64,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
+
 
 # ESAA_9th
 
