@@ -2,4 +2,7 @@
 
 
 # ESAA_9th
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/esaa_ewha/)
+
+<a href="https://www.instagram.com/esaa_ewha/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
