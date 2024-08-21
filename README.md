@@ -9,9 +9,10 @@
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver">
   </a>
   <a href="https://stat.ewha.ac.kr/statistics/index.do" target="_blank">
-    <img src="https://www.ewha.ac.kr/_res/ewha/img/intro/img-symbol01.png" width="80" alt="Ewha Womans University">
+    <img src="https://www.ewha.ac.kr/_res/ewha/img/common/img-logo.png" width="120" alt="Ewha Womans University">
   </a>
 </p>
+
 
 
 
