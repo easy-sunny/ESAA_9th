@@ -20,3 +20,7 @@
 
 ## About
 The Ewha Statistics Analysis Association (ESAA) is a student organization at Ewha Womans University focused on statistical analysis and data science. This repository contains various assignments and projects I have undertaken during my time with ESAA.
+
+<p align="center">
+  <img src="https://github.com/easy-sunny/ESAA_9th/blob/993fa6a60b0703a4855f7575a95fd3e9143f2dd1/ESAA/YB%26OB%20path.gif" alt="YB & OB Curriculum Path">
+</p>
